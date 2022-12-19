@@ -1,0 +1,18 @@
+.area-text-ctn {
+    background-color: #FCB71E;
+    padding: 2em 0;
+    min-height: 90vh;
+}
+
+.chart-ctn {
+    background-color: white;
+    padding: 30px 20px;
+    border-radius: 10px;
+    border: solid 2px #223570;
+}
+
+.data-grid-ctn {
+    background-color: white;
+    margin: auto;
+    border-radius: 5px;
+}
